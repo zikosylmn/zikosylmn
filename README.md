@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="https://tenor.com/view/welcome-gif-12515796881653540648.gif" width="400">
-</p>
 
-
-
-
-
-# Hi there 👋 , I'm Ziko!
+# Hi there 👋 , I'm Ziko! <img src="https://tenor.com/view/welcome-gif-12515796881653540648.gif" width="50">
 As a Software Quality Assurance, I am responsible for testing applications developed by the team. I create testing documents and perform both manual and automated testing using Java for websites and API. Additionally, I conduct performance testing and utilize TestRail as a test management tool and Postman for manual API testing.
 
 # Table of contents
